@@ -1,0 +1,7 @@
+{
+  "name": "Eco Untung",
+  "description": "Aplikasi Smart Tourism Pulau Untung Jawa untuk pilah sampah dan reward UMKM.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
